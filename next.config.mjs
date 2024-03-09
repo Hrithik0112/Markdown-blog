@@ -1,8 +1,3 @@
-// /** @type {import('next').NextConfig} */
-// const nextConfig = {};
-
-// export default nextConfig;
-
 import { build } from "velite";
 
 /** @type {import('next').NextConfig} */
